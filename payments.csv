@@ -1,0 +1,301 @@
+payment_id,order_id,payment_date,amount_paid,payment_method,payment_status
+1,1,2022-01-02,543.82,PayPal,Completed
+2,2,2022-04-04,893.2399999999999,PayPal,Completed
+3,3,2022-11-17,2414.02,Credit Card,Completed
+4,4,2022-11-27,541.24,Bank Transfer,Completed
+5,5,2022-02-21,1793.7400000000002,Bank Transfer,Pending
+6,6,2022-07-31,1112.78,Credit Card,Failed
+7,7,2022-10-12,464.74,PayPal,Pending
+8,8,2022-02-03,378.68,PayPal,Completed
+9,9,2022-07-10,1470.18,PayPal,Completed
+10,10,2022-10-27,894.94,Bank Transfer,Completed
+11,11,2022-10-31,1740.0299999999997,PayPal,Completed
+12,12,2022-12-17,2328.11,Credit Card,Completed
+13,13,2022-10-22,176.76,Bank Transfer,Completed
+14,14,2022-08-15,1302.42,Bank Transfer,Completed
+15,15,2022-11-06,3183.31,Bank Transfer,Failed
+16,16,2022-08-23,624.51,Bank Transfer,Completed
+17,17,2022-01-19,674.14,Bank Transfer,Completed
+18,18,2022-07-28,1619.51,Credit Card,Completed
+19,19,2022-09-16,1230.68,Credit Card,Pending
+20,20,2022-01-24,1931.8400000000001,Bank Transfer,Completed
+21,21,2022-12-18,705.7099999999999,Credit Card,Completed
+22,22,2022-03-31,863.1700000000001,Bank Transfer,Completed
+23,23,2022-11-24,2044.15,PayPal,Pending
+24,24,2022-11-23,2128.43,Credit Card,Completed
+25,25,2022-10-23,916.5899999999999,Bank Transfer,Completed
+26,26,2022-02-05,312.65999999999997,Credit Card,Completed
+27,27,2022-03-06,2762.7500000000005,Bank Transfer,Completed
+28,28,2022-09-26,1179.92,PayPal,Pending
+29,29,2022-03-10,3050.96,Bank Transfer,Completed
+30,30,2022-11-21,531.77,PayPal,Pending
+31,31,2022-09-08,1256.3400000000001,PayPal,Completed
+32,32,2022-06-30,1580.86,Bank Transfer,Completed
+33,33,2022-04-03,526.33,Bank Transfer,Completed
+34,34,2022-03-28,1466.8999999999999,PayPal,Failed
+35,35,2022-12-10,1281.94,PayPal,Failed
+36,36,2022-11-08,1755.2000000000003,PayPal,Completed
+37,37,2022-10-30,715.03,Bank Transfer,Completed
+38,38,2022-01-28,3256.7999999999997,Credit Card,Pending
+39,39,2022-02-28,329.03,Credit Card,Completed
+40,40,2022-03-05,3474.5699999999997,Credit Card,Completed
+41,41,2022-04-21,957.7499999999999,PayPal,Completed
+42,42,2022-01-09,2617.86,Credit Card,Pending
+43,43,2022-03-22,305.53,Credit Card,Completed
+44,44,2022-08-15,1671.5,Credit Card,Pending
+45,45,2022-09-16,214.78,PayPal,Completed
+46,46,2022-01-02,1389.0500000000002,Bank Transfer,Completed
+47,47,2022-10-27,732.82,Credit Card,Completed
+48,48,2022-10-28,147.14,PayPal,Completed
+49,49,2022-07-30,1380.1599999999999,Bank Transfer,Completed
+50,50,2022-03-01,1314.54,PayPal,Completed
+51,51,2022-06-30,319.54,PayPal,Completed
+52,52,2022-05-20,28.72,Credit Card,Completed
+53,53,2022-06-16,1423.6100000000001,Credit Card,Completed
+54,54,2022-05-04,776.39,PayPal,Completed
+55,55,2022-08-10,1267.52,PayPal,Completed
+56,56,2022-07-15,1378.1,Credit Card,Completed
+57,57,2022-04-18,136.85,Bank Transfer,Completed
+58,58,2022-01-24,2532.7700000000004,Bank Transfer,Completed
+59,59,2022-09-26,1460.42,Bank Transfer,Completed
+60,60,2022-11-03,202.75,Bank Transfer,Completed
+61,61,2022-05-01,2074.8399999999997,Credit Card,Completed
+62,62,2022-01-15,2590.67,PayPal,Completed
+63,63,2022-11-24,566.47,Bank Transfer,Completed
+64,64,2022-09-21,1458.51,Bank Transfer,Pending
+65,65,2022-05-17,1470.18,Credit Card,Completed
+66,66,2022-05-22,1153.56,Bank Transfer,Completed
+67,67,2022-12-17,1010.59,Bank Transfer,Completed
+68,68,2022-06-17,871.78,PayPal,Completed
+69,69,2022-11-21,429.56,Credit Card,Failed
+70,70,2022-01-13,1664.01,Credit Card,Completed
+71,71,2022-07-09,455.51,Credit Card,Completed
+72,72,2022-03-09,776.19,PayPal,Completed
+73,73,2022-02-03,568.02,Bank Transfer,Completed
+74,74,2022-11-29,797.59,Bank Transfer,Completed
+75,75,2022-02-11,2951.88,PayPal,Pending
+76,76,2022-09-25,837.12,Bank Transfer,Completed
+77,77,2022-02-02,2349.71,Credit Card,Completed
+78,78,2022-08-02,721.3199999999999,Credit Card,Completed
+79,79,2022-10-29,2521.42,Bank Transfer,Completed
+80,80,2022-03-11,954.99,Bank Transfer,Completed
+81,81,2022-02-18,2805.48,Credit Card,Completed
+82,82,2022-11-22,1853.0100000000002,Bank Transfer,Completed
+83,83,2022-07-03,770.6,Credit Card,Completed
+84,84,2022-04-30,208.17,PayPal,Pending
+85,85,2022-03-05,1324.06,PayPal,Pending
+86,86,2022-05-14,885.5,Credit Card,Completed
+87,87,2022-10-26,28.72,Credit Card,Completed
+88,88,2022-01-03,28.72,Bank Transfer,Completed
+89,89,2022-08-30,2174.28,Bank Transfer,Completed
+90,90,2022-09-16,196.22,Credit Card,Completed
+91,91,2022-06-23,785.49,Credit Card,Completed
+92,92,2022-03-05,1244.8899999999999,Credit Card,Completed
+93,93,2022-06-12,57.68,Credit Card,Completed
+94,94,2022-06-30,2211.9,PayPal,Completed
+95,95,2022-02-05,1318.06,PayPal,Completed
+96,96,2022-08-06,3613.84,Credit Card,Failed
+97,97,2022-04-24,624.51,Bank Transfer,Failed
+98,98,2022-04-11,1812.06,Bank Transfer,Completed
+99,99,2022-02-13,246.97,PayPal,Completed
+100,100,2022-04-29,1519.0300000000002,Credit Card,Failed
+101,101,2022-03-27,1107.86,Credit Card,Pending
+102,102,2022-05-21,2028.31,PayPal,Completed
+103,103,2022-08-07,132.66,Credit Card,Completed
+104,104,2022-06-07,1266.43,Credit Card,Completed
+105,105,2022-06-26,889.44,Credit Card,Completed
+106,106,2022-08-13,2675.2599999999998,Bank Transfer,Pending
+107,107,2022-07-23,2170.8700000000003,Bank Transfer,Pending
+108,108,2022-02-25,2932.97,Bank Transfer,Completed
+109,109,2022-09-09,1053.69,Credit Card,Completed
+110,110,2022-01-23,1410.0,PayPal,Failed
+111,111,2022-03-15,1853.6499999999999,Bank Transfer,Completed
+112,112,2022-04-04,378.12,Bank Transfer,Completed
+113,113,2022-09-01,2400.44,Credit Card,Completed
+114,114,2022-05-18,1973.41,Credit Card,Failed
+115,115,2022-01-04,957.0100000000001,Bank Transfer,Completed
+116,116,2022-04-30,1507.35,PayPal,Completed
+117,117,2022-05-21,1516.05,Bank Transfer,Completed
+118,118,2022-08-14,3771.1900000000005,Credit Card,Completed
+119,119,2022-11-11,2847.27,PayPal,Completed
+120,120,2022-09-30,2369.99,Credit Card,Pending
+121,121,2022-09-12,2091.62,Bank Transfer,Completed
+122,122,2022-07-30,99.01,Credit Card,Completed
+123,123,2022-02-18,1688.0500000000002,PayPal,Completed
+124,124,2022-03-08,2284.26,PayPal,Completed
+125,125,2022-03-13,1954.25,Credit Card,Completed
+126,126,2022-05-25,1141.6200000000001,Credit Card,Pending
+127,127,2022-01-12,1511.23,Credit Card,Completed
+128,128,2022-10-26,2388.52,Credit Card,Completed
+129,129,2022-07-01,1540.28,Bank Transfer,Completed
+130,130,2022-11-25,1105.28,Credit Card,Completed
+131,131,2022-02-20,2687.73,Credit Card,Pending
+132,132,2022-03-01,387.36,Credit Card,Completed
+133,133,2022-07-14,1290.8300000000002,Credit Card,Completed
+134,134,2022-05-19,1285.35,PayPal,Completed
+135,135,2022-01-23,805.9399999999999,PayPal,Completed
+136,136,2022-09-06,1142.78,PayPal,Completed
+137,137,2022-12-17,1667.02,Bank Transfer,Completed
+138,138,2022-11-30,588.72,Bank Transfer,Completed
+139,139,2022-06-07,3633.7,Bank Transfer,Completed
+140,140,2022-03-27,1732.53,PayPal,Completed
+141,141,2022-09-28,1134.3600000000001,Bank Transfer,Completed
+142,142,2022-07-18,959.0699999999999,Bank Transfer,Completed
+143,143,2022-05-11,2587.41,Bank Transfer,Pending
+144,144,2022-09-16,1126.88,Credit Card,Completed
+145,145,2022-09-09,603.51,PayPal,Completed
+146,146,2022-06-03,392.44,Bank Transfer,Completed
+147,147,2022-05-29,1362.35,Credit Card,Completed
+148,148,2022-04-29,445.17999999999995,Credit Card,Completed
+149,149,2022-12-30,1343.3899999999999,Credit Card,Completed
+150,150,2022-07-16,2638.11,Bank Transfer,Pending
+151,151,2022-04-23,2900.49,PayPal,Completed
+152,152,2022-01-08,2602.21,Bank Transfer,Completed
+153,153,2022-03-13,2353.6000000000004,Bank Transfer,Completed
+154,154,2022-10-22,2721.95,Credit Card,Completed
+155,155,2022-08-24,1226.07,Bank Transfer,Completed
+156,156,2022-01-12,1895.2199999999998,Credit Card,Completed
+157,157,2022-10-03,801.81,PayPal,Completed
+158,158,2022-11-16,1221.5,Credit Card,Failed
+159,159,2022-05-20,1740.23,Credit Card,Completed
+160,160,2022-04-20,1746.0200000000002,Credit Card,Completed
+161,161,2022-06-27,1260.52,PayPal,Completed
+162,162,2022-06-22,525.7900000000001,Bank Transfer,Completed
+163,163,2022-10-07,1677.35,Credit Card,Completed
+164,164,2022-12-22,1152.94,Credit Card,Pending
+165,165,2022-04-29,761.52,PayPal,Failed
+166,166,2022-02-11,3327.94,PayPal,Completed
+167,167,2022-08-22,1705.8600000000001,PayPal,Completed
+168,168,2022-06-06,919.56,Bank Transfer,Failed
+169,169,2022-01-17,3077.7300000000005,Credit Card,Completed
+170,170,2022-01-10,2239.8599999999997,PayPal,Completed
+171,171,2022-10-08,2558.9700000000003,PayPal,Completed
+172,172,2022-12-10,2861.04,PayPal,Completed
+173,173,2022-08-13,119.76,Credit Card,Completed
+174,174,2022-11-23,2803.37,Credit Card,Completed
+175,175,2022-04-12,1579.17,Bank Transfer,Completed
+176,176,2022-07-10,696.7,PayPal,Pending
+177,177,2022-10-02,2941.4700000000003,Credit Card,Completed
+178,178,2022-02-04,937.24,Bank Transfer,Completed
+179,179,2022-01-15,1986.69,Credit Card,Completed
+180,180,2022-03-15,378.68,Credit Card,Completed
+181,181,2022-09-12,4893.0599999999995,PayPal,Completed
+182,182,2022-09-10,2462.36,Credit Card,Completed
+183,183,2022-02-04,673.89,Credit Card,Completed
+184,184,2022-07-30,1032.43,Bank Transfer,Completed
+185,185,2022-12-03,2053.05,Credit Card,Completed
+186,186,2022-05-27,2528.5899999999997,PayPal,Completed
+187,187,2022-03-30,1256.58,Bank Transfer,Pending
+188,188,2022-12-21,919.56,PayPal,Completed
+189,189,2022-04-10,2678.16,Bank Transfer,Completed
+190,190,2022-07-30,331.74,Credit Card,Failed
+191,191,2022-05-20,2415.0,Bank Transfer,Completed
+192,192,2022-03-02,2983.79,Bank Transfer,Completed
+193,193,2022-09-12,1766.8999999999999,Credit Card,Completed
+194,194,2022-09-03,1472.3400000000001,PayPal,Completed
+195,195,2022-09-11,416.34,Credit Card,Completed
+196,196,2022-11-03,2522.79,PayPal,Completed
+197,197,2022-11-02,798.88,PayPal,Completed
+198,198,2022-12-01,1219.02,Credit Card,Completed
+199,199,2022-05-05,991.8700000000001,Credit Card,Completed
+200,200,2022-06-19,2274.5,Credit Card,Completed
+201,201,2022-10-13,715.74,Bank Transfer,Completed
+202,202,2022-07-12,2303.1200000000003,Credit Card,Completed
+203,203,2022-07-06,1541.89,Credit Card,Pending
+204,204,2022-01-31,296.79,Credit Card,Completed
+205,205,2022-09-05,588.72,Bank Transfer,Failed
+206,206,2022-01-11,1677.79,Bank Transfer,Completed
+207,207,2022-07-26,1333.0,Bank Transfer,Completed
+208,208,2022-09-24,1856.11,PayPal,Completed
+209,209,2022-02-05,1846.3300000000002,Credit Card,Pending
+210,210,2022-11-26,311.44,PayPal,Completed
+211,211,2022-02-17,2304.6099999999997,Bank Transfer,Completed
+212,212,2022-06-29,1134.3600000000001,PayPal,Pending
+213,213,2022-06-18,1598.6,Credit Card,Completed
+214,214,2022-01-07,1764.56,Credit Card,Failed
+215,215,2022-01-29,703.64,Bank Transfer,Completed
+216,216,2022-07-06,639.08,Bank Transfer,Completed
+217,217,2022-12-07,1302.8700000000001,Credit Card,Completed
+218,218,2022-01-19,737.9000000000001,Credit Card,Completed
+219,219,2022-04-26,1729.65,PayPal,Completed
+220,220,2022-10-16,158.16,Credit Card,Completed
+221,221,2022-09-23,1910.33,PayPal,Completed
+222,222,2022-02-15,1343.12,Credit Card,Completed
+223,223,2022-09-15,568.02,PayPal,Completed
+224,224,2022-12-07,799.3,Credit Card,Pending
+225,225,2022-10-17,2498.31,Bank Transfer,Completed
+226,226,2022-01-03,1919.06,PayPal,Completed
+227,227,2022-05-20,1850.99,Credit Card,Completed
+228,228,2022-12-22,1929.8100000000002,Credit Card,Completed
+229,229,2022-05-29,3054.1,Bank Transfer,Completed
+230,230,2022-07-14,1346.22,PayPal,Completed
+231,231,2022-04-10,118.62,Bank Transfer,Completed
+232,232,2022-10-27,1228.73,PayPal,Completed
+233,233,2022-11-07,760.18,Bank Transfer,Completed
+234,234,2022-07-14,1226.21,PayPal,Completed
+235,235,2022-08-20,263.9,Bank Transfer,Completed
+236,236,2022-03-10,2116.68,PayPal,Completed
+237,237,2022-05-01,2003.67,Bank Transfer,Completed
+238,238,2022-09-27,1413.7799999999997,PayPal,Completed
+239,239,2022-05-01,280.98,Credit Card,Pending
+240,240,2022-01-10,1444.7,Credit Card,Completed
+241,241,2022-12-11,68.64,Bank Transfer,Completed
+242,242,2022-10-19,2846.24,Bank Transfer,Completed
+243,243,2022-05-26,306.52,Bank Transfer,Completed
+244,244,2022-05-25,3628.21,Bank Transfer,Completed
+245,245,2022-06-14,294.28,PayPal,Completed
+246,246,2022-06-01,1483.8899999999999,Credit Card,Completed
+247,247,2023-01-01,297.03000000000003,PayPal,Completed
+248,248,2022-04-20,1779.93,Credit Card,Completed
+249,249,2022-03-02,1204.6399999999999,PayPal,Completed
+250,250,2022-02-10,827.31,Bank Transfer,Completed
+251,251,2022-10-10,1517.73,PayPal,Completed
+252,252,2022-01-30,2351.61,PayPal,Completed
+253,253,2022-05-20,2672.69,Bank Transfer,Completed
+254,254,2022-03-22,156.37,Credit Card,Pending
+255,255,2022-06-27,1848.13,Bank Transfer,Failed
+256,256,2022-11-08,1363.57,Bank Transfer,Completed
+257,257,2022-11-28,1625.5100000000002,Bank Transfer,Completed
+258,258,2022-11-12,540.67,PayPal,Failed
+259,259,2022-09-16,1397.4799999999998,Bank Transfer,Pending
+260,260,2022-09-02,1488.14,Credit Card,Completed
+261,261,2022-05-21,208.17,PayPal,Completed
+262,262,2022-03-31,1261.3899999999999,PayPal,Completed
+263,263,2022-10-13,397.51,PayPal,Pending
+264,264,2022-02-22,482.11,PayPal,Failed
+265,265,2022-08-18,2750.1800000000003,Credit Card,Completed
+266,266,2022-11-29,1710.6599999999999,PayPal,Completed
+267,267,2022-03-16,912.64,Credit Card,Completed
+268,268,2022-11-29,1249.07,PayPal,Failed
+269,269,2022-03-05,1768.03,Bank Transfer,Pending
+270,270,2022-12-02,674.14,Bank Transfer,Completed
+271,271,2022-12-30,1314.1699999999998,Bank Transfer,Completed
+272,272,2022-03-16,306.52,Credit Card,Completed
+273,273,2022-12-03,2026.61,Credit Card,Failed
+274,274,2022-01-09,2235.89,Credit Card,Completed
+275,275,2022-11-16,673.4200000000001,Credit Card,Completed
+276,276,2022-12-31,883.08,Bank Transfer,Completed
+277,277,2022-05-28,836.19,Bank Transfer,Completed
+278,278,2022-05-16,2740.84,Credit Card,Completed
+279,279,2022-07-07,3282.19,Credit Card,Failed
+280,280,2022-07-20,2174.5299999999997,PayPal,Completed
+281,281,2022-12-13,1938.81,Credit Card,Completed
+282,282,2022-02-26,1215.73,PayPal,Completed
+283,283,2022-05-23,2926.55,Bank Transfer,Completed
+284,284,2022-07-01,1512.93,Bank Transfer,Completed
+285,285,2022-12-09,1924.96,Credit Card,Completed
+286,286,2022-03-18,940.85,PayPal,Completed
+287,287,2022-08-30,3622.3600000000006,Credit Card,Completed
+288,288,2022-01-20,1154.35,Bank Transfer,Completed
+289,289,2022-09-30,305.53,PayPal,Completed
+290,290,2022-05-19,4905.070000000001,PayPal,Completed
+291,291,2022-05-25,1312.68,PayPal,Completed
+292,292,2022-07-08,2367.3,Credit Card,Completed
+293,293,2022-08-15,1044.87,PayPal,Completed
+294,294,2022-10-12,1054.35,Credit Card,Completed
+295,295,2022-06-07,3827.25,Bank Transfer,Completed
+296,296,2022-01-28,1564.7,Bank Transfer,Completed
+297,297,2022-06-02,1317.19,Credit Card,Pending
+298,298,2022-12-14,2182.35,Bank Transfer,Pending
+299,299,2022-03-02,1790.4999999999998,PayPal,Completed
+300,300,2022-01-16,903.3499999999999,Credit Card,Completed
